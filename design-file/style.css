@@ -1,0 +1,28 @@
+body{
+    background-color: #D5E1EF;
+    min-height: 100vh;
+   text-align: center;
+   font-family: sans-serif;
+}
+.card{
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    height: 470px;
+    width: 302px;
+    padding: 16px;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 16px;
+}
+img{
+    width: 100%;
+    border-radius: 12px;
+}
+p{
+    font-size: 15px;
+    color:hsl(220, 15%, 55%)
+}
+h3{
+    color: #252D47;
+}
